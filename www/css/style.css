@@ -1,0 +1,98 @@
+/* Empty. Add your own CSS if you like */
+#IN{
+
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+  background-color: #426eb9;
+  background: url(../img/b1-.png) center center no-repeat scroll;
+
+/*      background: url(../img/kk1.png) center center no-repeat scroll;*/
+  /*    background: url(../img/km-2.jpg) center center no-repeat scroll;*/
+
+  position: fixed;
+  background-size: cover;
+    
+}
+
+
+#TSSL{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+  background-color: #426eb9;
+/*  background: url(../img/m2.jpg) center center no-repeat scroll;*/
+  background: url(../img/D/crown.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+#CV{
+
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+  background-color: #426eb9;
+/*  background: url(../img/H1.jpg) center center no-repeat scroll;  */
+  background: url(../img/D/matedor.jpg) center no-repeat scroll;  
+/*  background: url(../img/n10-3i.jpg) center center no-repeat scroll;  */
+/*  background: url(../img/n10-3ii.jpg) center center no-repeat scroll;  */
+  position: fixed;
+  background-size: cover;
+}
+
+
+#LG{
+
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+  background-color: #426eb9;
+  /*background: url(../img/kk3.png) center center no-repeat scroll;*/
+background: url(../img/D/clown.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+    
+}
+
+
+#CnT{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+  background-color: #426eb9;
+  background: url(../img/d.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+    
+}
+
+#mpi{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*
+  background-color: #426eb9;
+  background: center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+*/
+}
+
+/*
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #fff;
+  font-weight: 300;
+}
+*/
+h4{
+/*    color: pink;*/
+    text-align: center;
+        font-style: italic
+}
+
+body1{
+/*    color: #fff;*/
+    font-style:italic;
+  font-weight: 300;
+}
+
+body{
+/*    color: #fff;*/
+    font-style:italic;
+  font-weight: 300;
+}
+
