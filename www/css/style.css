@@ -13,18 +13,27 @@
     
 }
 
-
-#TSSL{
+#CnT{
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
   background-color: #426eb9;
-/*  background: url(../img/m2.jpg) center center no-repeat scroll;*/
-  background: url(../img/D/crown.jpg) center center no-repeat scroll;
+  background: url(../img/d.jpg) center center no-repeat scroll;
   position: fixed;
-  background-size: cover;
+  background-size: cover;   
 }
 
-#CV{
+#dmtr{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*
+  background-color: #426eb9;
+  background: center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+*/
+}
 
+
+/* 1 */
+#CV{
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
   background-color: #426eb9;
 /*  background: url(../img/H1.jpg) center center no-repeat scroll;  */
@@ -35,36 +44,449 @@
   background-size: cover;
 }
 
+/* 2 */
+#TSSL{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+  background-color: #426eb9;
+/*  background: url(../img/m2.jpg) center center no-repeat scroll;*/
+  background: url(../img/D/rainbow.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
 
+/* 3 */
 #LG{
 
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
   background-color: #426eb9;
   /*background: url(../img/kk3.png) center center no-repeat scroll;*/
-background: url(../img/D/clown.jpg) center center no-repeat scroll;
+background: url(../img/D/ManGift.jpg) center center no-repeat scroll;
   position: fixed;
   background-size: cover;
-    
 }
 
-
-#CnT{
+/* 4 */
+#MT{
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
-  background-color: #426eb9;
-  background: url(../img/d.jpg) center center no-repeat scroll;
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
   position: fixed;
   background-size: cover;
-    
 }
 
-#mpi{
+/* 5 */
+#LBTM{
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
-/*
-  background-color: #426eb9;
-  background: center center no-repeat scroll;
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 6 */
+#TSMOP{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
   position: fixed;
   background-size: cover;   
-*/
+}
+
+/* 7 */
+#DF{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;  
+}
+
+/* 8 */
+#MM{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 9 */
+#TCOE{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 10 */
+#HLMF{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/10.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;  
+}
+
+/* 11 */
+#AZD{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 12 */
+#TRS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;  
+}
+
+/* 13 */
+#GT{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover; 
+}
+
+/* 14 */
+#AOKOL{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover; 
+}
+
+/* 15 */
+#TAB{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover; 
+}
+
+/* 16 */
+#CTTW{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 17 */
+#PM{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 18 */
+#ERR{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;
+}
+
+/* 19 */
+#WY{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;    
+}
+
+/* 20 */
+#ABOG{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 21 */
+#BR{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 22 */
+#TLD{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 23 */
+#DML{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/23--.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;  
+}
+
+/* 24 */
+#OTJ{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/24.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;  
+}
+
+/* 25 */
+#WDG{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/24.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;  
+}
+
+/* 26 */
+#CC{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 27 */
+#TM{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 28 */
+#TFAHM{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 29 */
+#ABS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 30 */
+#AS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 31 */
+#MLL{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 32 */
+#WLD{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 33 */
+#HGB{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/33.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 34 */
+#ITTOAE{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 35 */
+#JGS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 36 */
+#ADOJ{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/36--.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 37 */
+#TPOD{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 38 */
+#TR{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 39 */
+#TS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/39.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 40 */
+#WD{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 41 */
+#ROL{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/41.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 42 */
+#OR{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 43 */
+#SM{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 44 */
+#PUYS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 45 */
+#ET{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+
+/* 46 */
+#COH{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/C/46.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 47 */
+#BOR{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 48 */
+#MTMP{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 49 */
+#BBTS{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
+}
+
+/* 50 */
+#TPTW{
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0);
+/*  background-color: #426eb9;*/
+  background: url(../img/D/HandF.jpg) center center no-repeat scroll;
+  position: fixed;
+  background-size: cover;   
 }
 
 /*

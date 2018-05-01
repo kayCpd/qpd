@@ -41,20 +41,20 @@ angular.module('starter.controllers', [])
 //  };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
-  $scope.playlists = [
-    { title: 'Introduction', id: 0 },
-    { title: 'Cupid’s Vineyard', id: 2 },
-    { title: 'The sultry sassy lass', id: 3 },
-    { title: 'Let go!', id: 4 },
-    { title: 'Mating', id: 5 },
-    { title: 'Living by the memories', id: 6 }
-  ];})
-
-.controller('PlaylistCtrl', function($scope, $stateParams) {
-    
-    
-})
+//.controller('PlaylistsCtrl', function($scope) {
+//  $scope.playlists = [
+//    { title: 'Introduction', id: 0 },
+//    { title: 'Cupid’s Vineyard', id: 2 },
+//    { title: 'The sultry sassy lass', id: 3 },
+//    { title: 'Let go!', id: 4 },
+//    { title: 'Mating', id: 5 },
+//    { title: 'Living by the memories', id: 6 }
+//  ];})
+//
+//.controller('PlaylistCtrl', function($scope, $stateParams) {
+//    
+//    
+//})
 
 
 .controller('dMantraCtrl', function ($scope) {
@@ -65,13 +65,25 @@ angular.module('starter.controllers', [])
 //    }
 //}
 //    $scope.t = new date();
+    var mI = new Array();
     
+        
     $scope.counter = 10;  
             
     var gT = setInterval(function(){ getD() }, 7000);
     
+        $scope.doRefresh = function(){
+
+            //mI[1] = "../img/Try/a.jpg";
+            alert("scroll.refreshComplete");
+//            
+//            img src="../img/Try/4.png" "" width="100%" height="670" position="fixed" id="mp"
+        //$scope.$broadcast('scroll.refreshComplete');
+    }
+
+    
                  
-            var mI = new Array();
+            
 //var mI = new Array("../img/DM/dm1.jpg", "../img/DM/dm2.png", "../img/DM/dm3.jpg");
             
                     //add images to array
