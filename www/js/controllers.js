@@ -128,14 +128,19 @@ angular.module('starter.controllers', [])
             mI[16] = "../img/Try/o.jpg";
             
             mI[17] = "../img/Try/p.jpg";
-            mI[18] = "../img/Try/i.jpg";
-            mI[19] = "../img/Try/j.jpg";
-            mI[20] = "../img/Try/k.png";
+            mI[18] = "../img/Try/q.jpg";
+            mI[19] = "../img/Try/r.jpg";
+            mI[20] = "../img/Try/s.jpg";
             
-            mI[21] = "../img/Try/l.jpg";
-            mI[22] = "../img/Try/m.png";
-            mI[23] = "../img/Try/n.png";
-            mI[24] = "../img/Try/o.jpg";
+            mI[21] = "../img/Try/t.jpg";
+            mI[22] = "../img/Try/u.jpg";
+            mI[23] = "../img/Try/v.jpg";
+            mI[24] = "../img/Try/w.jpg";
+            mI[25] = "../img/Try/qi.png";
+    
+            mI[26] = "../img/Try/x.png";
+            mI[27] = "../img/Try/y.png";
+            mI[28] = "../img/Try/z.jpg";
     
     
              
