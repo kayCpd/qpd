@@ -106,14 +106,14 @@ angular.module('starter.controllers', [])
     
     
     
-            mI[1] = "../img/Try/a.jpg";
+            mI[1] = "../img/Try/a.png";
             mI[2] = "../img/Try/b.jpg";
             mI[3] = "../img/Try/c.jpg";
             mI[4] = "../img/Try/d.png";
             
             mI[5] = "../img/Try/a1.jpg";
-            mI[6] = "../img/Try/e.jpg";
-            mI[7] = "../img/Try/f.jpg";
+            mI[6] = "../img/Try/e.png";
+            mI[7] = "../img/Try/f.png";
             mI[8] = "../img/Try/g.png";
     
     
