@@ -23,6 +23,7 @@
     "cordova-plugin-device",
     "cordova-plugin-statusbar",
     "cordova-plugin-splashscreen",
+    "cordova-plugin-local-notification",
     "ionic-plugin-keyboard"
   ],
   "cordovaPlatforms": []

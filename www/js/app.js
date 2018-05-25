@@ -4,8 +4,8 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'starter.controllers'])
-var not = angular.module('starter', ['ionic', 'ngCordova'])
+var nt = angular.module('starter', ['ionic', 'starter.controllers', 'ngCordova'])
+//nt += angular.module('starter', ['ionic', 'ngCordova'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -23,6 +23,7 @@ var not = angular.module('starter', ['ionic', 'ngCordova'])
     }
   });
 })
+
 
 .config(function($stateProvider, $urlRouterProvider) {
   $stateProvider
@@ -48,8 +49,8 @@ var not = angular.module('starter', ['ionic', 'ngCordova'])
     url: '/self',
     views: {
       'menuContent': {
-        templateUrl: 'templates/self.html'
-//        controller: 'examNoti'
+        templateUrl: 'templates/self.html',
+        controller: "examNoti"
       }
     }
   })
