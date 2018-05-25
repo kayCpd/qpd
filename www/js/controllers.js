@@ -1,4 +1,5 @@
 angular.module('starter.controllers', [])
+angular.module('ngCordova', [])
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout) {
 
@@ -56,6 +57,23 @@ angular.module('starter.controllers', [])
 //    
 //})
 
+not.controller('examNoti', function($scope, $cordovaLocalNotification) {
+    $scope.add = function(){
+        
+        var alarmTime = new Date();
+        alarmTime.setMinutes(alarmTime.getMinutes() + 1);
+        $cordovaLocalNotification.addClass({
+            id:"12345",
+            date: alarmTime,
+            message: "This is a message",
+            title: "This is a title"
+        }).then(function() {
+            alert("scroll.refreshComplete");
+            console.log("The notification was set");  
+        });
+
+    }
+})
 
 .controller('dMantraCtrl', function ($scope) {
 //        $scope.doRefresh = function(){
@@ -170,7 +188,6 @@ angular.module('starter.controllers', [])
     function stopD() {
         clearInterval(gT);
     }
-    
     
 });
 

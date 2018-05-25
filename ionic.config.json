@@ -1,7 +1,9 @@
 {
   "name": "cpd",
   "app_id": "6155c44b",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic1",
   "watchPatterns": [
     "scss/**/*",
